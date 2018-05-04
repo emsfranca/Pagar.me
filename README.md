@@ -8,11 +8,10 @@ As transações que são geradas através do Link Pagar.me se comportam como uma
 
 ## Funções do Link de Pagamento em Beta 
 
-- Criar um link de pagamento com opção de parcelamento e pagamento múltiplo;  
-- Realizar a consulta dos links criados;  
-- Ver o status das transações geradas por um link;  
-- Colocar o seu logo e as cores da sua empresa na tela do link de pagamento;  
-- Pagar uma compra através de um link de pagamento (cliente final).  
+- [Criar um link de pagamento com opção de parcelamento e pagamento múltiplo](https://github.com/pagarme/link-de-pagamento/blob/master/README.md#criando-um-link-de-pagamento);  
+- [Realizar a consulta dos links criados e ver o status das transações geradas](https://github.com/pagarme/link-de-pagamento/blob/master/README.md#consultando-os-links-de-pagamento-criados); 
+- [Colocar o seu logo e as cores da sua empresa na tela do link de pagamento](https://github.com/pagarme/link-de-pagamento/blob/master/README.md#personalizando-o-logo-e-a-cor-da-tela-do-link-de-pagamento);  
+- [Pagar uma compra através de um link de pagamento (cliente final)](https://github.com/pagarme/link-de-pagamento/blob/master/README.md#pagando-um-pedido-usando-o-link-de-pagamento).  
 
 ## Criando um link de pagamento
 
