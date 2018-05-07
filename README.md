@@ -6,11 +6,11 @@ No link é possível colocar quantos e quais produtos o seu cliente quer comprar
 
 As transações que são geradas através do Link Pagar.me se comportam como uma transação normal: isto é, apenas a forma de **receber** o pagamento é diferente, mas todo o resto depois disso funciona como você já está acostumado.
 
-- [Como criar um link de pagamento com opção de parcelamento e pagamento múltiplo](https://github.com/pagarme/link-de-pagamento/blob/master/README.md#criando-um-link-de-pagamento);  
-- [Como realizar a consulta dos links criados e ver o status das transações geradas](https://github.com/pagarme/link-de-pagamento/blob/master/README.md#consultando-os-links-de-pagamento-criados); 
-- [Como colocar o seu logo e as cores da sua empresa na tela do link de pagamento](https://github.com/pagarme/link-de-pagamento/blob/master/README.md#personalizando-o-logo-e-a-cor-da-tela-do-link-de-pagamento);  
-- [Como pagar uma compra através de um link de pagamento (cliente final)](https://github.com/pagarme/link-de-pagamento/blob/master/README.md#pagando-um-pedido-usando-o-link-de-pagamento).  
-- Perguntas frequentes
+- [Como criar um link de pagamento com opção de parcelamento e pagamento múltiplo](https://github.com/pagarme/link-de-pagamento/blob/master/README.md#criando-um-link-de-pagamento)
+- [Como realizar a consulta dos links criados e ver o status das transações geradas](https://github.com/pagarme/link-de-pagamento/blob/master/README.md#consultando-os-links-de-pagamento-criados)
+- [Como colocar o seu logo e as cores da sua empresa na tela do link de pagamento](https://github.com/pagarme/link-de-pagamento/blob/master/README.md#personalizando-o-logo-e-a-cor-da-tela-do-link-de-pagamento)
+- [Como pagar uma compra através de um link de pagamento (cliente final)](https://github.com/pagarme/link-de-pagamento/blob/master/README.md#pagando-um-pedido-usando-o-link-de-pagamento)
+- [Perguntas frequentes](https://github.com/pagarme/link-de-pagamento/blob/master/README.md#perguntas-frequentes)
 
 ## Criando um link de pagamento
 
