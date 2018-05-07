@@ -100,7 +100,7 @@ Sim. O link é apenas a forma de começar a venda, porém todo o pagamento é re
 
 #### Os valores pagos através de um link de pagamento podem ser antecipados?
 
-Sim, a transação criada através do link é uma transação normal, então o valor estará disponível para saque em D+29+2 dias úteis. Dessa forma, é possível antecipar e receber esse valor antes.
+Sim, a transação criada através do link é uma transação normal, então o valor estará disponível para saque em D+29+2 dias úteis (Cartão de crédito) ou D+2 (Boleto). Dessa forma, é possível antecipar e receber esse valor antes.
 
 #### As transações criadas pelo link de pagamento passam pelo antifraude?
 
