@@ -6,12 +6,11 @@ No link é possível colocar quantos e quais produtos o seu cliente quer comprar
 
 As transações que são geradas através do Link Pagar.me se comportam como uma transação normal: isto é, apenas a forma de **receber** o pagamento é diferente, mas todo o resto depois disso funciona como você já está acostumado.
 
-## Funções do Link de Pagamento em Beta 
-
-- [Criar um link de pagamento com opção de parcelamento e pagamento múltiplo](https://github.com/pagarme/link-de-pagamento/blob/master/README.md#criando-um-link-de-pagamento);  
-- [Realizar a consulta dos links criados e ver o status das transações geradas](https://github.com/pagarme/link-de-pagamento/blob/master/README.md#consultando-os-links-de-pagamento-criados); 
-- [Colocar o seu logo e as cores da sua empresa na tela do link de pagamento](https://github.com/pagarme/link-de-pagamento/blob/master/README.md#personalizando-o-logo-e-a-cor-da-tela-do-link-de-pagamento);  
-- [Pagar uma compra através de um link de pagamento (cliente final)](https://github.com/pagarme/link-de-pagamento/blob/master/README.md#pagando-um-pedido-usando-o-link-de-pagamento).  
+- [Como criar um link de pagamento com opção de parcelamento e pagamento múltiplo](https://github.com/pagarme/link-de-pagamento/blob/master/README.md#criando-um-link-de-pagamento);  
+- [Como realizar a consulta dos links criados e ver o status das transações geradas](https://github.com/pagarme/link-de-pagamento/blob/master/README.md#consultando-os-links-de-pagamento-criados); 
+- [Como colocar o seu logo e as cores da sua empresa na tela do link de pagamento](https://github.com/pagarme/link-de-pagamento/blob/master/README.md#personalizando-o-logo-e-a-cor-da-tela-do-link-de-pagamento);  
+- [Como pagar uma compra através de um link de pagamento (cliente final)](https://github.com/pagarme/link-de-pagamento/blob/master/README.md#pagando-um-pedido-usando-o-link-de-pagamento).  
+- Perguntas frequentes
 
 ## Criando um link de pagamento
 
@@ -92,5 +91,31 @@ Veja a seguir como um pedido pode ser pago usando o Link Pagar.me. Quando você 
 ![Tela do link](https://user-images.githubusercontent.com/29931138/39650193-9380ea5a-4fbd-11e8-98cf-5ab7c813b00f.png)
 
 Ali, o comprador consegue visualizar os itens, a quantidade e o valor de cada um, além do valor total da compra. Ao clicar em "Continuar Pagamento", um modal com o Checkout Pagar.me é aberto e o seu cliente então procede de forma segura, para inserir os dados do cartão e finalizar a compra, ou gerar um boleto para pagamento.
+
+## Perguntas frequentes
+
+#### É possível enviar um link de pagamento para clientes de outros países?
+
+Sim. O link é apenas a forma de começar a venda, porém todo o pagamento é realizado no Checkout Pagar.me, que suporta clientes internacionais.
+
+#### Os valores pagos através de um link de pagamento podem ser antecipados?
+
+Sim, a transação criada através do link é uma transação normal, então o valor estará disponível para saque em D+29+2 dias úteis. Dessa forma, é possível antecipar e receber esse valor antes.
+
+#### As transações criadas pelo link de pagamento passam pelo antifraude?
+
+Sim, todas as transações que forem pagas usando um Cartão de crédito passam por um serviço de antifraude.
+
+#### É possível cancelar um link de pagamento antes de expirar o tempo e a quantidade de pedidos?
+
+Sim, é possível cancelar um link a qualquer momento, para isso basta abrir os detalhes dele e clicar no botão "Cancelar link", no canto superior direito. Se um cliente tentar realizar o pagamento posteriormente, uma mensagem de erro indica que aquele link está expirado.
+
+#### É possível limitar a quantidade máxima de parcelas para cada link?
+
+Sim, isso é definido no momento da criação de cada link. Você também pode indicar o valor a ser cobrado de juros, e até quantas parcelas não terão juros.
+
+#### É possível colocar uma limitação para aceitar apenas Cartão de crédito ou apenas Boleto bancário?
+
+Sim, durante a configuração do link você escolhe quais formas de pagamento deseja aceitar. É possível escolher uma delas ou as duas.
 
 ![logotipo-pagar-me_1](https://user-images.githubusercontent.com/29931138/39649003-a45a8320-4fba-11e8-9239-006475f2d238.png)
