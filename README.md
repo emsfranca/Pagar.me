@@ -118,4 +118,12 @@ Sim, isso é definido no momento da criação de cada link. Você também pode i
 
 Sim, durante a configuração do link você escolhe quais formas de pagamento deseja aceitar. É possível escolher uma delas ou as duas.
 
+#### Posso enviar o mesmo link para várias pessoas realizarem o pagamento?
+
+Sim. O Link Pagar.me pode gerar inúmeros pedidos, cada um deles atrelado a uma transação separada, dessa forma você pode enviar o mesmo link para várias pessoas. No momento da criação do link é possível definir um número máximo de pedidos que podem ser gerados por ele, o que é útil para ter o controle dos produtos vendidos, por exemplo.
+
+#### Como eu posso enviar um link de pagamento para os meus clientes?
+
+Os links podem ser enviados em qualquer meio. Por exemplo, e-mail, Whatsapp, mensagem do Facebook, Instagram, SMS e outros mensageiros. Os seus clientes podem abrir o link e completar o pagamento em qualquer lugar.
+
 ![logotipo-pagar-me_1](https://user-images.githubusercontent.com/29931138/39649003-a45a8320-4fba-11e8-9239-006475f2d238.png)
