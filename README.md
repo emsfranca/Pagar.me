@@ -126,4 +126,10 @@ Sim. O Link Pagar.me pode gerar inúmeros pedidos, cada um deles atrelado a uma 
 
 Os links podem ser enviados em qualquer meio. Por exemplo, e-mail, Whatsapp, mensagem do Facebook, Instagram, SMS e outros mensageiros. Os seus clientes podem abrir o link e completar o pagamento em qualquer lugar.
 
+#### Posso usar o Link de Pagamento para cobrar assinaturas? 
+
+Sim, porém não é aconselhável, pois os links enviados não ficariam atrelados a uma assinatura, de modo que o controle do pagamento teria que ser feito do lado da sua operação. Além disso, não temos as funcionalidades de agendamento e envio de links de pagamento, ou seja, isso teria que ser feito manualmente a cada nova cobrança.  
+
+Caso você utilize o link para negociar parcelas, vale ressaltar que estes pagamentos ficarão atrelados a funcionalidade de Link de Pagamento, ou seja, ainda será necessário dar baixa manualmente nesta cobrança.
+
 ![logotipo-pagar-me_1](https://user-images.githubusercontent.com/29931138/39649003-a45a8320-4fba-11e8-9239-006475f2d238.png)
