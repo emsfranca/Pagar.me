@@ -130,6 +130,14 @@ Os links podem ser enviados em qualquer meio. Por exemplo, e-mail, Whatsapp, men
 
 Sim, porém não é aconselhável, pois os links enviados não ficariam atrelados a uma assinatura, de modo que o controle do pagamento teria que ser feito do lado da sua operação. Além disso, não temos as funcionalidades de agendamento e envio de links de pagamento, ou seja, isso teria que ser feito manualmente a cada nova cobrança.  
 
-Caso você utilize o link para negociar parcelas, vale ressaltar que estes pagamentos ficarão atrelados a funcionalidade de Link de Pagamento, ou seja, ainda será necessário dar baixa manualmente nesta cobrança.
+Caso você utilize o link para negociar parcelas, vale ressaltar que estes pagamentos ficarão atrelados à funcionalidade de Link de Pagamento, ou seja, ainda será necessário dar baixa manualmente nesta cobrança.
+
+#### Eu configurei as cores da minha loja no link e agora o botão não aparece mais. O que aconteceu?
+
+A visualização pode ser comprometida se for usada uma cor muito clara para o botão, já que o fundo da tela é branco. Nós recomendamos usar cores fortes para destacar o botão e o nome da sua empresa, garantindo que eles vão aparecer em qualquer configuração de monitor.
+
+#### Tenho outra conta no Pagar.me e gostaria de usar o Link Pagar.me nela também. Como eu faço isso?
+
+Envie um e-mail para relacionamento@pagar.me informando o CNPJ da conta na qual o link está ativo e o CNPJ da conta na qual você quer usá-lo, para que o nosso time avalie a liberação dessa ferramenta.
 
 ![logotipo-pagar-me_1](https://user-images.githubusercontent.com/29931138/39649003-a45a8320-4fba-11e8-9239-006475f2d238.png)
